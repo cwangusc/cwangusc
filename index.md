@@ -1,20 +1,13 @@
-## Wenlong Tian's Personal Homepage
+## 
 ### **Basic Infomation**
 
-Wenlong Tian 
+王超峰
 
-Assistant Professor, 
+副教授, 
 
-School of Computer Science and Technology, University of South China
+计算机学院/软件学院
 
-Email: wenlongtian@usc.edu.cn
-
-Phone: +86-18202786884
-
-Office: Chongye Building D419, Yumu Campus, Univ. of Shouth China
-
-Teaching Courses: Unified Modelling Language, Computer Networks, Discrete Mathematics, Cryptography, Computer Science Introduction, ASP.Net
-
+Email: cwang@usc.edu.cn
 
 
 ### **Education**
