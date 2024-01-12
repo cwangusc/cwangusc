@@ -1,5 +1,5 @@
 
-王超峰
+**王超峰**
 
 博士，副教授，硕士研究生导师
 
@@ -17,7 +17,7 @@ Email: cwang{AT}usc.edu.cn
 
 - 今后立志于从事技术开发工作或者科研
 
-### **主持科研项目**
+#### **主持科研项目**
 
 1. 基于强化学习的机器人控制算法研究，企业委托项目
 
@@ -30,7 +30,7 @@ Email: cwang{AT}usc.edu.cn
 5. 耳机频响函数校正算法研究，企业委托项目
 
 
-### **近年来部分发表论文**
+#### **近年来部分发表论文**
 
 1. Unsupervised learning-based fast CU size decision for geometry videos in V-PCC, Journal of Real-Time Image Processing, 2024 (Q2，通讯作者)
 
