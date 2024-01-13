@@ -34,13 +34,13 @@ Email: cwang{AT}usc.edu.cn
 
 1. Unsupervised learning-based fast CU size decision for geometry videos in V-PCC, Journal of Real-Time Image Processing, 2024 (Q2，通讯作者)
 
-1. Secure Underwater Distributed Antenna Systems: A Multi-agent Reinforcement Learning Approach, IEEE/CAA Journal of Automatica Sinica, 2023 (Q1，第一作者)
+2. Secure Underwater Distributed Antenna Systems: A Multi-agent Reinforcement Learning Approach, IEEE/CAA Journal of Automatica Sinica, 2023 (Q1，第一作者)
 
-2. Recursive Spatial-Temporal Clustering-based Target Detection with Millimeter-Wave Radar Point Cloud, Measurement Science and Technology, 2023 (Q2，通讯作者)
+3. Recursive Spatial-Temporal Clustering-based Target Detection with Millimeter-Wave Radar Point Cloud, Measurement Science and Technology, 2023 (Q2，通讯作者)
 
-3. AcsiNet: Attention-Based Deep Learning Network for CSI Prediction in FDD-MIMO Systems, IEEE Wireless Communication Letters, 2023 (Q1，共同通讯)
+4. AcsiNet: Attention-Based Deep Learning Network for CSI Prediction in FDD-MIMO Systems, IEEE Wireless Communication Letters, 2023 (Q1，共同通讯)
 
-4. A Joint Power Allocation and Scheduling Algorithm Based on Quasi-Interference Alignment in Underwater Acoustic Networks, IEEE/MTS Oceans Conference, 2022 (EI，第一作者)
+5. A Joint Power Allocation and Scheduling Algorithm Based on Quasi-Interference Alignment in Underwater Acoustic Networks, IEEE/MTS Oceans Conference, 2022 (EI，第一作者)
 
-5. Region-based Active Learning for Reducing Annotation Effort of ECG Waveform Segmentation, Asian Conference on Artificial Intelligence Technology, 2022 (EI，通讯作者)
+6. Region-based Active Learning for Reducing Annotation Effort of ECG Waveform Segmentation, Asian Conference on Artificial Intelligence Technology, 2022 (EI，通讯作者)
 
