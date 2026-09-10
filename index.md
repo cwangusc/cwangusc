@@ -38,22 +38,22 @@ Email: cwang{AT}usc.edu.cn
 
 #### **近年来部分发表论文**
 
-1. Deep Learning-based Channel Prediction with Outdated CSI for Underwater Acoustic Communications, IEEE Wireless Communications Letters, 2026 (Q1，通讯作者)
+1. Deep Learning-based Channel Prediction with Outdated CSI for Underwater Acoustic Communications, IEEE Wireless Communications Letters, 2026 (JCR Q1，通讯作者)
  
-2. 3D localization of radioactive leakage source based on Bayesian Fusion Neural Network, Radiation Measurements, 2026 (Q1，通讯作者)
+2. 3D localization of radioactive leakage source based on Bayesian Fusion Neural Network, Radiation Measurements, 2026 (JCR Q2，通讯作者)
 
-3. Cooperative MARL With Compressed State Information for Transmission Scheduling in Underwater Acoustic Networks, Internet Technology Letters 2026 (EI，通讯作者)
+3. Cooperative MARL With Compressed State Information for Transmission Scheduling in Underwater Acoustic Networks, Internet Technology Letters 2026 (EI，ESCI 通讯作者)
 
-4. Robust Leakage Localization in Radioactive Material Transport via Multi-Task Learning, IEEE Sensors Journal, 2026 (Q1，通讯作者)
+4. Robust Leakage Localization in Radioactive Material Transport via Multi-Task Learning, IEEE Sensors Journal, 2026 (JCR Q1，通讯作者)
   
-5. Graph Reinforcement Learning-Based Transmission Scheduling for Underwater Acoustic Networks, IEEE Communications Letters, 2026 (Q1，通讯作者)
+5. Graph Reinforcement Learning-Based Transmission Scheduling for Underwater Acoustic Networks, IEEE Communications Letters, 2026 (JCR Q2，通讯作者)
    
-6. Deep Learning-Based CSI Feedback Compression for Underwater Acoustic OFDM Communications, IEEE Wireless Communications Letters, 2025 (Q1，通讯作者)
+6. Deep Learning-Based CSI Feedback Compression for Underwater Acoustic OFDM Communications, IEEE Wireless Communications Letters, 2025 (JCR Q1，通讯作者)
 
-7. Unsupervised learning-based fast CU size decision for geometry videos in V-PCC, Journal of Real-Time Image Processing, 2024 (Q2，通讯作者)
+7. Unsupervised learning-based fast CU size decision for geometry videos in V-PCC, Journal of Real-Time Image Processing, 2024 (JCR Q2，通讯作者)
 
-8. Secure Underwater Distributed Antenna Systems: A Multi-agent Reinforcement Learning Approach, IEEE/CAA Journal of Automatica Sinica, 2023 (Q1，第一作者)
+8. Secure Underwater Distributed Antenna Systems: A Multi-agent Reinforcement Learning Approach, IEEE/CAA Journal of Automatica Sinica, 2023 (JCR Q1，第一作者)
 
-9. Recursive Spatial-Temporal Clustering-based Target Detection with Millimeter-Wave Radar Point Cloud, Measurement Science and Technology, 2023 (Q2，通讯作者)
+9. Recursive Spatial-Temporal Clustering-based Target Detection with Millimeter-Wave Radar Point Cloud, Measurement Science and Technology, 2023 (JCR Q2，通讯作者)
 
-10. AcsiNet: Attention-Based Deep Learning Network for CSI Prediction in FDD-MIMO Systems, IEEE Wireless Communication Letters, 2023 (Q1，共同通讯)
+10. AcsiNet: Attention-Based Deep Learning Network for CSI Prediction in FDD-MIMO Systems, IEEE Wireless Communication Letters, 2023 (JCR Q1，共同通讯)
