@@ -24,33 +24,36 @@ Email: cwang{AT}usc.edu.cn
 1. 基于多智能体强化学习的水声通信网络跨层自适应传输方法研究，国家自然科学基金青年科学基金项目
 
 2. 基于时域干扰对齐的水声网络高能效资源分配方法研究，湖南省自然科学基金青年项目
-
-3. 基于深度学习的水声信道预测关键技术研究，湖南省教育厅优秀青年项目
-
-4. 基于毫米波雷达的自主安全监测算法研究，十三五核能开发项目子课题
-
-5. 耳机频响函数校正算法研究，企业委托项目
    
-7. 基于强化学习的机器人控制算法研究，企业委托项目
+4. 基于深度学习的信道预测方法研究，湖南省教育厅优秀青年项目
+
+5. 基于深度学习的水声信道预测关键技术研究，湖南省教育厅优秀青年项目
+
+6. 基于毫米波雷达的自主安全监测算法研究，十三五核能开发项目子课题
+
+7. 耳机频响函数校正算法研究，企业委托项目
+   
+8. 基于强化学习的机器人控制算法研究，企业委托项目
 
 
 #### **近年来部分发表论文**
 
-1. Robust Leakage Localization in Radioactive Material Transport via Multi-Task Learning, IEEE Sensors Journal, 2026 (Q1，通讯作者)
+1. Deep Learning-based Channel Prediction with Outdated CSI for Underwater Acoustic Communications, IEEE Wireless Communications Letters, 2026 (Q1，通讯作者)
+ 
+2. 3D localization of radioactive leakage source based on Bayesian Fusion Neural Network, Radiation Measurements, 2026 (Q1，通讯作者)
+
+3. Cooperative MARL With Compressed State Information for Transmission Scheduling in Underwater Acoustic Networks, Internet Technology Letters 2026 (Q1，通讯作者)
+
+4. Robust Leakage Localization in Radioactive Material Transport via Multi-Task Learning, IEEE Sensors Journal, 2026 (Q1，通讯作者)
   
-2. Graph Reinforcement Learning-Based Transmission Scheduling for Underwater Acoustic Networks, IEEE Communications Letters, 2026 (Q1，通讯作者)
+5. Graph Reinforcement Learning-Based Transmission Scheduling for Underwater Acoustic Networks, IEEE Communications Letters, 2026 (Q1，通讯作者)
    
-3. Deep Learning-Based CSI Feedback Compression for Underwater Acoustic OFDM Communications, IEEE Wireless Communications Letters, 2025 (Q1，通讯作者)
+6. Deep Learning-Based CSI Feedback Compression for Underwater Acoustic OFDM Communications, IEEE Wireless Communications Letters, 2025 (Q1，通讯作者)
 
-4. Unsupervised learning-based fast CU size decision for geometry videos in V-PCC, Journal of Real-Time Image Processing, 2024 (Q2，通讯作者)
+7. Unsupervised learning-based fast CU size decision for geometry videos in V-PCC, Journal of Real-Time Image Processing, 2024 (Q2，通讯作者)
 
-5. Secure Underwater Distributed Antenna Systems: A Multi-agent Reinforcement Learning Approach, IEEE/CAA Journal of Automatica Sinica, 2023 (Q1，第一作者)
+8. Secure Underwater Distributed Antenna Systems: A Multi-agent Reinforcement Learning Approach, IEEE/CAA Journal of Automatica Sinica, 2023 (Q1，第一作者)
 
-6. Recursive Spatial-Temporal Clustering-based Target Detection with Millimeter-Wave Radar Point Cloud, Measurement Science and Technology, 2023 (Q2，通讯作者)
+9. Recursive Spatial-Temporal Clustering-based Target Detection with Millimeter-Wave Radar Point Cloud, Measurement Science and Technology, 2023 (Q2，通讯作者)
 
-7. AcsiNet: Attention-Based Deep Learning Network for CSI Prediction in FDD-MIMO Systems, IEEE Wireless Communication Letters, 2023 (Q1，共同通讯)
-
-8. A Joint Power Allocation and Scheduling Algorithm Based on Quasi-Interference Alignment in Underwater Acoustic Networks, IEEE/MTS Oceans Conference, 2022 (EI，第一作者)
-
-9. Region-based Active Learning for Reducing Annotation Effort of ECG Waveform Segmentation, Asian Conference on Artificial Intelligence Technology, 2022 (EI，通讯作者)
-
+10. AcsiNet: Attention-Based Deep Learning Network for CSI Prediction in FDD-MIMO Systems, IEEE Wireless Communication Letters, 2023 (Q1，共同通讯)
