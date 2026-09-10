@@ -42,7 +42,7 @@ Email: cwang{AT}usc.edu.cn
  
 2. 3D localization of radioactive leakage source based on Bayesian Fusion Neural Network, Radiation Measurements, 2026 (Q1，通讯作者)
 
-3. Cooperative MARL With Compressed State Information for Transmission Scheduling in Underwater Acoustic Networks, Internet Technology Letters 2026 (Q1，通讯作者)
+3. Cooperative MARL With Compressed State Information for Transmission Scheduling in Underwater Acoustic Networks, Internet Technology Letters 2026 (EI，通讯作者)
 
 4. Robust Leakage Localization in Radioactive Material Transport via Multi-Task Learning, IEEE Sensors Journal, 2026 (Q1，通讯作者)
   
